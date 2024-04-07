@@ -1,1 +1,2 @@
 Hi i am learning git hub.
+Hi i am learning Devops, and git bash.
