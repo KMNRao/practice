@@ -1,2 +1,10 @@
 Hi i am learning git hub.
 Hi i am learning Devops, and git bash.
+
+i want to buy a black shirt 
+if 
+there is no black shirt white shirt
+else
+blue shirt 
+else 
+black shirt
